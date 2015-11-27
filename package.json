@@ -1,6 +1,6 @@
 {
   "name": "@joshrtay/release",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Testing out release it",
   "main": "index.js",
   "scripts": {
